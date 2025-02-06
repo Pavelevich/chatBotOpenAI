@@ -1,4 +1,4 @@
-# Chat Project
+# ChatBOT Project
 ![image](https://github.com/user-attachments/assets/ad9d9625-74d1-4f73-8598-495c41478ebb)
 
 
