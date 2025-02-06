@@ -1,0 +1,22 @@
+
+#chainlit-copilot  a.watermark[href*="github.com/Chainlit/chainlit"] {
+    background: #9C1A1C;
+}
+
+
+a.watermark {
+    display: none !important;
+}
+.watermark {
+    display: none !important;
+}
+
+.chainlit-copilot{
+    display: none;
+}
+a img[alt="watermark"] {
+    display: none;
+}
+
+
+
